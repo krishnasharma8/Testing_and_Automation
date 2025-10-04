@@ -1,13 +1,13 @@
-# Ignore node_modules folder
-node_modules/
-
-# Ignore all .log files
-*.log
-
-# Ignore Eclipse project files
+# Eclipse project files
 .settings/
 .classpath
 .project
 
-# Ignore environment files
-.env
+# Maven build output
+target/
+
+# Compiled Java files
+*.class
+
+# Logs
+*.log
