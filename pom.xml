@@ -23,11 +23,11 @@
       <version>3.141.59</version>
     </dependency>
 
-    <dependency>
-      <groupId>io.github.bonigarcia</groupId>
-      <artifactId>webdrivermanager</artifactId>
-      <version>4.4.3</version>
-    </dependency>
+   <dependency>
+     <groupId>io.github.bonigarcia</groupId>
+     <artifactId>webdrivermanager</artifactId>
+     <version>5.9.2</version> <!-- use latest -->
+  </dependency>
 
     <dependency>
       <groupId>org.slf4j</groupId>
